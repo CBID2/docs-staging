@@ -35,7 +35,7 @@ hide_commit: true
 
 </LearningPath>
 
-<LearningPath label="Develop" icon="doc8">
+<LearningPath label="Develop" icon="doc8" alt="a file with code">
 
 [Developer Guide Overview](https://docs.pingcap.com/tidb/dev/dev-guide-overview)
 
@@ -45,7 +45,7 @@ hide_commit: true
 
 </LearningPath>
 
-<LearningPath label="Deploy" icon="deploy">
+<LearningPath label="Deploy" icon="deploy" alt="a black circle wearing a purple curved hat is on the verge of going in a grey box">
 
 [Software and Hardware Requirements](https://docs.pingcap.com/tidb/dev/hardware-and-software-requirements)
 
@@ -55,7 +55,7 @@ hide_commit: true
 
 </LearningPath>
 
-<LearningPath label="Migrate" icon="cloud3">
+<LearningPath label="Migrate" icon="cloud3" alt="Two purple circles follow each other around a black circle">
 
 [Migration Overview](https://docs.pingcap.com/tidb/dev/migration-overview)
 
@@ -65,7 +65,7 @@ hide_commit: true
 
 </LearningPath>
 
-<LearningPath label="Maintain" icon="maintain">
+<LearningPath label="Maintain" icon="maintain" alt="A black gear cog and a purple gear cog stand near each">
 
 [Upgrade a Cluster](https://docs.pingcap.com/tidb/dev/upgrade-tidb-using-tiup)
 
