@@ -79,7 +79,7 @@ hide_commit: true
 
 </LearningPath>
 
-<LearningPath label="Monitor" icon="cloud6">
+<LearningPath label="Monitor" icon="cloud6" alt="a blue eye is encircled in purple">
 
 [Use Prometheus and Grafana](https://docs.pingcap.com/tidb/dev/tidb-monitoring-framework)
 
@@ -89,7 +89,7 @@ hide_commit: true
 
 </LearningPath>
 
-<LearningPath label="Tune" icon="tidb-cloud-tune">
+<LearningPath label="Tune" icon="tidb-cloud-tune" alt="a purple EKG with a transulcent heart in the background">
 
 [Tuning Overview](https://docs.pingcap.com/tidb/dev/performance-tuning-overview)
 
