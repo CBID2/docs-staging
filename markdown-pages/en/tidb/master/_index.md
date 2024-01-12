@@ -15,7 +15,7 @@ hide_commit: true
 
 -->
 
-<LearningPath label="Learn" icon="cloud1">
+<LearningPath label="Learn" icon="cloud1" alt="a purple circle is wearing a black graduation cap that has a blue bottom">
 
 [What is TiDB](https://docs.pingcap.com/tidb/dev/overview)
 
@@ -25,7 +25,7 @@ hide_commit: true
 
 </LearningPath>
 
-<LearningPath label="Try" icon="cloud5">
+<LearningPath label="Try" icon="cloud5" alt="a purple circle and a blue triangle are following each other in a cycle">
 
 [Try Out TiDB](https://docs.pingcap.com/tidb/dev/quick-start-with-tidb)
 
